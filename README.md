@@ -17,14 +17,20 @@ Python
 1.Two Sample T Test 2.Annova 3.Chi-square Test 
 # Business Insights:- 
  1.Out of every 100 users, around 19 are casual users and 81 are registered users.
+ 
  2.The mean total hourly count of bikes rented is 144 for the year 2011 and 239 for the year 2012.
+ 
  3.An annual growth rate of 65.41 % can be seen in the demand of electric vehicles on an hourly
    basis.
+   
  4.Weather patters is mostly Clear or Few clouds or partly cloudy or partly cloudy which is
    expected in a tropical country like India.
+   
  5.More bikes are rented on holidays and non-working days.
+ 
  6.There is a seasonal pattern in the count of rental bikes, with higher demand during the fall and
    summer months, a slight decline in the winter, and a further decrease in the spring months.
+   
 7. The hourly count of total rental bikes is higher in the clear and cloudy weather, followed by the
    misty weather and rainy weather. There are very few records for extreme weather conditions. 
 # Recommendations:
